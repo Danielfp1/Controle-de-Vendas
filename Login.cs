@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using FireSharp.Config;
 
+
 namespace Controle_de_Vendas
 {
     public partial class Login : Form
@@ -27,6 +28,13 @@ namespace Controle_de_Vendas
         private void button_login_Click(object sender, EventArgs e)
         {
             
+        }
+
+        private void button_Cadastar_Click(object sender, EventArgs e)
+        {
+            Cadastro cadastro = new Cadastro();
+            cadastro.Show();
+            Hide();
         }
     }
 }
