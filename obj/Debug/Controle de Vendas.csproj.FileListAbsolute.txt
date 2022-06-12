@@ -1,0 +1,21 @@
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\Controle de Vendas.exe.config
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\Controle de Vendas.exe
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\Controle de Vendas.pdb
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\FireSharp.dll
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\RestSharp.dll
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\RestSharp.xml
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle de Vendas.csproj.AssemblyReference.cache
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle de Vendas.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle de Vendas.csproj.CopyComplete
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle de Vendas.exe
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle de Vendas.pdb
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\ServiceStack.Text.dll
+C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\ServiceStack.Text.xml
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Cadastro.resources
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Login.resources
