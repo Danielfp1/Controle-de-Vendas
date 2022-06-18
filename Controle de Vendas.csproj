@@ -67,6 +67,7 @@
     <Compile Include="Cadastro.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="ProdutoData.cs" />
     <Compile Include="CadastroData.cs" />
     <Compile Include="EncryptSHA.cs" />
     <Compile Include="FirebaseConfigConnection.cs" />

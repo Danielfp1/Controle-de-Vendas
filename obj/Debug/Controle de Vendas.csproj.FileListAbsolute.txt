@@ -19,3 +19,4 @@ C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\ServiceStack.Text.dll
 C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\ServiceStack.Text.xml
 C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Cadastro.resources
 C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Login.resources
+C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.CadastroDeProduto.resources

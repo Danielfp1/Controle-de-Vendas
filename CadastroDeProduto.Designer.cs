@@ -37,7 +37,7 @@ namespace Controle_de_Vendas
             this.textBox_Valor = new System.Windows.Forms.TextBox();
             this.Button_Cadastrar = new System.Windows.Forms.Button();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox_Quantidade = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
@@ -91,7 +91,7 @@ namespace Controle_de_Vendas
             // 
             // Button_Cadastrar
             // 
-            this.Button_Cadastrar.Location = new System.Drawing.Point(86, 311);
+            this.Button_Cadastrar.Location = new System.Drawing.Point(84, 325);
             this.Button_Cadastrar.Name = "Button_Cadastrar";
             this.Button_Cadastrar.Size = new System.Drawing.Size(75, 23);
             this.Button_Cadastrar.TabIndex = 18;
@@ -109,12 +109,12 @@ namespace Controle_de_Vendas
             this.label4.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
-            // textBox1
+            // textBox_Quantidade
             // 
-            this.textBox1.Location = new System.Drawing.Point(74, 277);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
-            this.textBox1.TabIndex = 19;
+            this.textBox_Quantidade.Location = new System.Drawing.Point(74, 277);
+            this.textBox_Quantidade.Name = "textBox_Quantidade";
+            this.textBox_Quantidade.Size = new System.Drawing.Size(100, 20);
+            this.textBox_Quantidade.TabIndex = 19;
             // 
             // label5
             // 
@@ -134,7 +134,7 @@ namespace Controle_de_Vendas
             this.ClientSize = new System.Drawing.Size(266, 385);
             this.Controls.Add(this.label5);
             this.Controls.Add(this.label4);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.textBox_Quantidade);
             this.Controls.Add(this.Button_Cadastrar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.textBox_Valor);
@@ -159,7 +159,7 @@ namespace Controle_de_Vendas
         private System.Windows.Forms.TextBox textBox_Valor;
         private System.Windows.Forms.Button Button_Cadastrar;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox1;
+        private System.Windows.Forms.TextBox textBox_Quantidade;
         private System.Windows.Forms.Label label5;
     }
 }

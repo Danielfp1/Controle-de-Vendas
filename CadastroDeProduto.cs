@@ -20,9 +20,10 @@ namespace Controle_de_Vendas
             InitializeComponent();
         }
 
-        private void Button_Cadastrar_Click(object sender, EventArgs e)
+        private async void Button_Cadastrar_Click(object sender, EventArgs e)
         {
             {
+                bool flagOK = true;
                 IFirebaseConfig config = new FirebaseConfig
                 {
                     AuthSecret = FirebaseConfigConnection.AuthScrete,
@@ -31,16 +32,40 @@ namespace Controle_de_Vendas
                 IFirebaseClient client = new FireSharp.FirebaseClient(config);
                 if (true)// Se tiver internet
                 {
-                    CadastroData dados = new CadastroData
+                    //Verificações
+                    if (textBox_NomeDoProduto.Text == "") 
                     {
-                        UserName = textBox_Nome.Text,
-                        UserCpf = textBox_Cpf.Text,
-                        Password = EncryptSHA.GetShaData(textBox_Senha.Text),
-                    };
-                    SetResponse response = await client.SetTaskAsync("Users/" + textBox_Cpf.Text, dados);
-                    CadastroData result = response.ResultAs<CadastroData>();
-                    MessageBox.Show("Cadastro Realizado!");
-
+                        MessageBox.Show("Nome do produto em branco");
+                        flagOK = false;
+                    }
+                    if (textBox_IdProduto.Text == "")
+                    {
+                        MessageBox.Show("Id do produto em branco");
+                        flagOK = false;
+                    }
+                    if (textBox_Quantidade.Text == "")
+                    {
+                        MessageBox.Show("Quantidade do produto em branco");
+                        flagOK = false;
+                    }
+                    if (textBox_Valor.Text == "")
+                    {
+                        MessageBox.Show("Valor do produto em branco");
+                        flagOK = false;
+                    }
+                    if (flagOK)
+                    {
+                        ProdutoData dados = new ProdutoData
+                        {
+                            Nome = textBox_NomeDoProduto.Text,
+                            Id = textBox_IdProduto.Text,
+                            Valor = float.Parse(textBox_Valor.Text),
+                            Quantidade = int.Parse(textBox_Quantidade.Text),
+                        };
+                        SetResponse response = await client.SetTaskAsync("Produtos/" + textBox_IdProduto.Text, dados);
+                        ProdutoData result = response.ResultAs<ProdutoData>();
+                        MessageBox.Show("Produto Cadastrado!");
+                    }
                 }
                 else
                 {
