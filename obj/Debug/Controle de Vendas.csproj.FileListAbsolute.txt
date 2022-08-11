@@ -20,3 +20,29 @@ C:\Users\Daniel\source\repos\Controle de Vendas\bin\Debug\ServiceStack.Text.xml
 C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Cadastro.resources
 C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.Login.resources
 C:\Users\Daniel\source\repos\Controle de Vendas\obj\Debug\Controle_de_Vendas.CadastroDeProduto.resources
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Controle de Vendas.exe.config
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Controle de Vendas.exe
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Controle de Vendas.pdb
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\FireSharp.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\FireSharp.Serialization.ServiceStack.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Environment.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Newtonsoft.Json.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\RestSharp.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\ServiceStack.Text.dll
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Microsoft.Configuration.ConfigurationBuilders.Environment.xml
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\Newtonsoft.Json.xml
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\RestSharp.xml
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\bin\Debug\ServiceStack.Text.xml
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle de Vendas.csproj.AssemblyReference.cache
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle_de_Vendas.Cadastro.resources
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle_de_Vendas.CadastroDeProduto.resources
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle_de_Vendas.Login.resources
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle_de_Vendas.Properties.Resources.resources
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle de Vendas.csproj.GenerateResource.cache
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle de Vendas.csproj.CoreCompileInputs.cache
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle de Vendas.csproj.CopyComplete
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle de Vendas.exe
+C:\Users\05230066164\Documents\Repos\Controle-de-Vendas\obj\Debug\Controle de Vendas.pdb
